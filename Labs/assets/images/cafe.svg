@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-label="A steaming cup of coffee next to a croissant">
+  <rect width="600" height="400" fill="#efe1cb"/>
+  <ellipse cx="300" cy="330" rx="230" ry="40" fill="#d9c3a0"/>
+  <ellipse cx="270" cy="310" rx="130" ry="26" fill="#ffffff"/>
+  <ellipse cx="270" cy="304" rx="105" ry="18" fill="#f0f0f0"/>
+  <path d="M195 190 h150 v70 a75 60 0 0 1 -150 0 z" fill="#ffffff" stroke="#c9b18a" stroke-width="3"/>
+  <path d="M345 210 h20 a28 28 0 0 1 0 56 h-24" fill="none" stroke="#c9b18a" stroke-width="12"/>
+  <ellipse cx="270" cy="190" rx="75" ry="16" fill="#5b3a1e"/>
+  <ellipse cx="270" cy="192" rx="55" ry="8" fill="#7a4e28"/>
+  <g fill="none" stroke="#b9a684" stroke-width="7" stroke-linecap="round">
+    <path d="M240 160 q-18 -25 0 -50 q18 -25 0 -50"/>
+    <path d="M285 165 q-18 -25 0 -50 q18 -25 0 -50"/>
+  </g>
+  <path d="M400 320 q20 -60 80 -60 q60 0 80 60 q-40 25 -80 15 q-40 10 -80 -15 z" fill="#d98a3d"/>
+  <g stroke="#b56a22" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M430 300 q15 -30 20 -38"/>
+    <path d="M465 295 q5 -30 5 -35"/>
+    <path d="M500 298 q-5 -30 -10 -37"/>
+  </g>
+</svg>

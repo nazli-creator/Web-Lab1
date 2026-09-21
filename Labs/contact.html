@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Paper Moon Books - Contact</title>
+</head>
+<body>
+
+  <header>
+    <h1>Paper Moon Books</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Contact</h2>
+
+    <form action="mailto:hello@papermoon.example" method="post" enctype="text/plain">
+      <fieldset>
+        <legend>Contact Form</legend>
+
+        <p>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required>
+        </p>
+        <p>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+        </p>
+        <p>
+          <label for="date">Date:</label>
+          <input type="date" id="date" name="date">
+        </p>
+        <p>
+          <label for="topic">Topic:</label>
+          <select id="topic" name="topic">
+            <option value="book-club">Book club</option>
+            <option value="order">Book order</option>
+            <option value="other">Other</option>
+          </select>
+        </p>
+        <p>
+          <label for="message">Message:</label><br>
+          <textarea id="message" name="message" rows="5" cols="40"></textarea>
+        </p>
+        <button type="submit">Send</button>
+      </fieldset>
+    </form>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Nazlı Mutlu</p>
+  </footer>
+
+</body>
+</html>

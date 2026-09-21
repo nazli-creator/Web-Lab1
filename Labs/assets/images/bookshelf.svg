@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-label="A wooden bookshelf full of colourful books">
+  <rect width="600" height="400" fill="#f4ead8"/>
+  <rect x="40" y="30" width="520" height="340" rx="6" fill="#8b5a2b"/>
+  <rect x="55" y="45" width="490" height="145" fill="#6b4220"/>
+  <rect x="55" y="205" width="490" height="145" fill="#6b4220"/>
+  <g>
+    <rect x="70" y="70" width="28" height="120" fill="#c0392b"/>
+    <rect x="100" y="55" width="24" height="135" fill="#2e86c1"/>
+    <rect x="126" y="80" width="30" height="110" fill="#f1c40f"/>
+    <rect x="158" y="60" width="22" height="130" fill="#27ae60"/>
+    <rect x="182" y="75" width="34" height="115" fill="#8e44ad"/>
+    <rect x="218" y="50" width="26" height="140" fill="#e67e22"/>
+    <rect x="246" y="85" width="30" height="105" fill="#16a085"/>
+    <rect x="280" y="65" width="24" height="125" fill="#d35400"/>
+    <rect x="306" y="78" width="32" height="112" fill="#34495e"/>
+    <rect x="340" y="58" width="26" height="132" fill="#c0392b"/>
+    <rect x="368" y="72" width="30" height="118" fill="#2e86c1"/>
+    <rect x="400" y="52" width="24" height="138" fill="#f39c12"/>
+    <rect x="426" y="82" width="34" height="108" fill="#27ae60"/>
+    <rect x="462" y="62" width="28" height="128" fill="#8e44ad"/>
+    <rect x="492" y="76" width="40" height="114" fill="#e74c3c"/>
+  </g>
+  <g>
+    <rect x="70" y="240" width="32" height="110" fill="#1abc9c"/>
+    <rect x="104" y="225" width="26" height="125" fill="#c0392b"/>
+    <rect x="132" y="250" width="28" height="100" fill="#f1c40f"/>
+    <rect x="162" y="232" width="34" height="118" fill="#2980b9"/>
+    <rect x="198" y="245" width="24" height="105" fill="#e67e22"/>
+    <rect x="224" y="220" width="30" height="130" fill="#8e44ad"/>
+    <rect x="256" y="238" width="26" height="112" fill="#27ae60"/>
+    <polygon points="300,350 330,350 345,235 315,230" fill="#d35400"/>
+    <rect x="360" y="228" width="32" height="122" fill="#34495e"/>
+    <rect x="394" y="246" width="26" height="104" fill="#e74c3c"/>
+    <rect x="422" y="224" width="30" height="126" fill="#16a085"/>
+    <rect x="454" y="242" width="34" height="108" fill="#f39c12"/>
+    <rect x="490" y="230" width="40" height="120" fill="#2e86c1"/>
+  </g>
+  <rect x="55" y="190" width="490" height="15" fill="#a9713a"/>
+  <rect x="55" y="350" width="490" height="15" fill="#a9713a"/>
+</svg>
